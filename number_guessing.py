@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Apr  5 01:13:48 2024
-
-@author: avigy
-"""
-
 import random
 
 def getRandomNumber():
